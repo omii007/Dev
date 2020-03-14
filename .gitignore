@@ -1,0 +1,6 @@
+*.exe
+*.msi
+*.log
+.terraform*
+terraform*
+
